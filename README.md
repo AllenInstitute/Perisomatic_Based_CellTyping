@@ -48,7 +48,12 @@ This file contains the radial distance of each branch from the soma center point
   - nucleus_counts_perID_v661.pkl
 
 ## Other Resources
-For feature extraction pipelines, please look at the following repositories:
+For accompanying feature extraction pipelines, please look at the following repositories:
 - [Nucleus and Soma Extraction](https://github.com/lelabbady/Extract_Somatic_Features/tree/pipeline)
 - [Spine Extraction](https://github.com/AllenInstitute/featureExtractionParty/) from mesh objects
 - [Post-Synaptic Shape Feature Extraction](https://github.com/AllenInstitute/pss_extraction_pipeline)
+
+To see how these features have enabled scientific discovery, please check out the following papers:
+- Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex [(Schneider-Mizell 2023)](https://biorxiv.org/content/10.1101/2023.01.23.525290v3)
+- The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice [(Bodor 2023)](https://www.biorxiv.org/content/10.1101/2023.10.18.562531v1)
+- Integrating EM and Patch-seq data: Synaptic connectivity and target specificity of predicted Sst transcriptomic types [(Gamlin 2023)](https://www.biorxiv.org/content/10.1101/2023.03.22.533857v1)

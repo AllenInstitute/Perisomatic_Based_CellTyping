@@ -3,8 +3,8 @@ Repository to accompany the manuscript Perisomatic Ultrastructure Efficiently Cl
 
 Here we present how the perisomatic region of brain cells can be used to classify cells from a mm<sup>3</sup> volumetric electron microscopy dataset of mouse visual cortex. 
 <p align="middle">
-  <img src="./files/minnie_cut_v2.png" width="500" />
-  <img src="./files/SomaCutout.png" width="350" /> 
+  <img src="./files/minnie_cut_v2.png" width="400" />
+  <img src="./files/SomaCutout.png" width="250" /> 
 </p>
 
 

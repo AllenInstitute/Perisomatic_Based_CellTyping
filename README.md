@@ -53,6 +53,7 @@ For accompanying feature extraction pipelines, please look at the following repo
 - [Spine Extraction](https://github.com/AllenInstitute/featureExtractionParty/) from mesh objects
 - [Post-Synaptic Shape Feature Extraction](https://github.com/AllenInstitute/pss_extraction_pipeline)
 
+## Applications
 To see how these features have enabled scientific discovery, please check out the following papers:
 - Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex [(Schneider-Mizell 2023)](https://biorxiv.org/content/10.1101/2023.01.23.525290v3)
 - The Synaptic Architecture of Layer 5 Thick Tufted Excitatory Neurons in the Visual Cortex of Mice [(Bodor 2023)](https://www.biorxiv.org/content/10.1101/2023.10.18.562531v1)

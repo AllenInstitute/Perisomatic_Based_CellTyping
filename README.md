@@ -1,5 +1,5 @@
 # Perisomatic_Based_CellTyping
-Repository to accompany the manuscript Perisomatic Ultrastructure Efficiently Classifies Cells in Mouse Cortex (Elabbady 2024). The tutorials in this repository are aimed to recapitulate the figures and analyses from the manuscript. 
+Repository to accompany the manuscript Perisomatic Ultrastructure Efficiently Classifies Cells in Mouse Cortex (Elabbady 2025). The tutorials in this repository are aimed to recapitulate the figures and analyses from the manuscript. 
 
 Here we present how the perisomatic region of brain cells can be used to classify cells from a mm<sup>3</sup> volumetric electron microscopy dataset of mouse visual cortex. 
 <p align="middle">

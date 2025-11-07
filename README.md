@@ -47,6 +47,17 @@ This file contains the radial distance of each branch from the soma center point
   - column_syn_edits_df.pkl
   - nucleus_counts_perID_v661.pkl
 
+## Cell Search App
+
+To search for cells within the MICrONS dataset using the perisomatic features, checkout the Cell Search folder at tutorials/Cell_Search/. Users can use the jupyter notebook Cell_Search_Code_Tutorial to search for cells with similar perisomatic features programmatically. Alternatively, users can launch a dash app to interactively explore the dataset. Here users will be asked to input an ID (nucleus or segment ID) and how many cells they would like to see. They can view their cell of interest within the 2D embedding space along with the requested similar cells. The app provides an interactive manner to visualize cell neighborhoods within the embedding spaces and provides dynamic neuroglancer links that include all the cells of interest for further exploration.
+
+To launch the Cell Search App, navigate to the folder tutorials/Cell_Search/ and run the following:
+
+```
+python Cell_Search_App.py
+```
+This will launch a local instance of the app. To access the app, paste the local address displayed in your terminal into a browser.
+
 ## Other Resources
 For accompanying feature extraction pipelines, please look at the following repositories:
 - [Nucleus and Soma Extraction](https://github.com/lelabbady/Extract_Somatic_Features/tree/pipeline)
